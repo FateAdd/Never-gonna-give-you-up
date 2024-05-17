@@ -1,0 +1,11 @@
+C:\Users\29373417\Desktop\Вотяков Артем\Вотяков Артем\bin\Debug\Вотяков Артем.exe.config
+C:\Users\29373417\Desktop\Вотяков Артем\Вотяков Артем\bin\Debug\Вотяков Артем.exe
+C:\Users\29373417\Desktop\Вотяков Артем\Вотяков Артем\bin\Debug\Вотяков Артем.pdb
+C:\Users\29373417\Desktop\Вотяков Артем\Вотяков Артем\obj\Debug\Вотяков_Артем.Properties.Resources.resources
+C:\Users\29373417\Desktop\Вотяков Артем\Вотяков Артем\obj\Debug\Вотяков Артем.csproj.GenerateResource.cache
+C:\Users\29373417\Desktop\Вотяков Артем\Вотяков Артем\obj\Debug\Вотяков Артем.csproj.CoreCompileInputs.cache
+C:\Users\29373417\Desktop\Вотяков Артем\Вотяков Артем\obj\Debug\Вотяков Артем.exe
+C:\Users\29373417\Desktop\Вотяков Артем\Вотяков Артем\obj\Debug\Вотяков Артем.pdb
+C:\Users\29373417\Desktop\Вотяков Артем\Вотяков Артем\obj\Debug\Вотяков_Артем.Form1.resources
+C:\Users\29373417\Desktop\Вотяков Артем\Вотяков Артем\obj\Debug\Вотяков Артем.csproj.AssemblyReference.cache
+C:\Users\29373417\Desktop\Вотяков Артем\Вотяков Артем\obj\Debug\Вотяков_Артем.AboutBox1.resources
